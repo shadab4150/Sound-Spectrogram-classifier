@@ -12,8 +12,7 @@
 
 * First I pre-processed the **.wav** audio files to **spectrograms** to train a deep learning model.
 
-* I have used **resnet50** pretrained model.
-* A Deep Residual Learning architecture for Image Recognition.
+* I have used **resnet50** pretrained model.  *A Deep Residual Learning for Image Recognition.*
 
  *I have used a **pretrained model** because **learned features are often transferable to different data**. For **example**, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable to my dataset.*
 
