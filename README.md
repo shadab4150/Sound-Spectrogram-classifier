@@ -16,21 +16,30 @@
 
  *I have used a **pretrained model** because **learned features are often transferable to different data**. For **example**, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable to my dataset.*
 
+
 [**Notebook sound to spectrogram pre-processing**](https://nbviewer.jupyter.org/github/shadab4150/Sound-Spectrogram-classifier/blob/master/sound_to_image_pre_processing.ipynb)
+
 
 * **spectrogram** of clapping sound:
 
+
 * Matplotlib **specgram**
+
 
 ![kd](https://i.ibb.co/xXWpCSd/downloczczczad.png)
 
+
 * librosa specgram
+
 
 ![kd](https://i.ibb.co/Wn2WzGB/1-15689-A-4-4.png)
 
+
 [**Spectrogram classification notebook**](https://nbviewer.jupyter.org/github/shadab4150/Sound-Spectrogram-classifier/blob/master/environmental_sound_spectrogram_classification.ipynb)
 
+
 * **Spectrogram Datablock:**
+
 ![kd](https://i.ibb.co/qn415xm/downzczczcload.png)
 
 ### Confusion matrix:
