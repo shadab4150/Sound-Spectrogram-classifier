@@ -14,7 +14,7 @@
 
 * I have used **resnet50** pretrained model.  *A Deep Residual Learning for Image Recognition.*
 
- *I have used a **pretrained model** because **learned features are often transferable to different data**. For **example**, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that you would be transferable to my dataset.*
+ *I have used a **pretrained model** because **learned features are often transferable to different data**. For **example**, a model trained on a large dataset of bird images will contain learned features like edges or horizontal lines that would be transferable to my data.*
 
 
 [**Notebook sound to spectrogram pre-processing**](https://nbviewer.jupyter.org/github/shadab4150/Sound-Spectrogram-classifier/blob/master/sound_to_image_pre_processing.ipynb)
