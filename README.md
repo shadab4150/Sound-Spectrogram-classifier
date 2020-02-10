@@ -31,7 +31,6 @@
 
 * librosa specgram
 
-
 ![kd](https://i.ibb.co/Wn2WzGB/1-15689-A-4-4.png)
 
 
