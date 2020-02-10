@@ -34,7 +34,7 @@
 ![kd](https://i.ibb.co/Wn2WzGB/1-15689-A-4-4.png)
 
 
-[**Spectrogram classification notebook**](https://nbviewer.jupyter.org/github/shadab4150/Sound-Spectrogram-classifier/blob/master/environmental_sound_spectrogram_classification.ipynb)
+## Spectrogram classification notebook [**Click Here**](https://nbviewer.jupyter.org/github/shadab4150/Sound-Spectrogram-classifier/blob/master/environmental_sound_spectrogram_classification.ipynb)
 
 
 * **Spectrogram Datablock:**
